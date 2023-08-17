@@ -186,7 +186,7 @@
           <tbody>
             <template v-if="totalCnt == 0">
               <tr>
-                <td colspan="7">일치하는 검색 결과가 없습니다</td>
+                <td colspan="7">일치하는 검색 결과가 없습니다..</td>
               </tr>
             </template>
             <template v-else>
