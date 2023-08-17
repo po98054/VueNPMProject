@@ -1,5 +1,5 @@
 <template>
-  <h3 class="hidden">lnb 영역</h3>
+  <h3 class="hidden">lnb 영역dasdasd</h3>
   <div id="lnb_area">
     <div class="logo">
       <div id="header">
